@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^26.2.4"
+    "electron": "^26.2.4",
+    "keydrown": "^1.2.8",
+    "three": "^0.157.0"
   }
 }
